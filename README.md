@@ -24,7 +24,7 @@ O Nordeste brasileiro enfrenta três desafios energéticos críticos:
 2025: 1.200 MW  
 2035: 3.800 MW  
 2075: 18.400 MW
-
+```
 ## 📁 Bases de Dados Necessárias
 
 ### Fontes Oficiais
